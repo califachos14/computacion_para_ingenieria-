@@ -57,6 +57,6 @@ edad = 10
 while edad <= 17:
     print(f'Menor de edad {edad}')
     edad = edad + 1 #---- edad+=1
-    print (f'mayor de edad {edad}')
+print (f'mayor de edad {edad}')
     
 
