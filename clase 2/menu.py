@@ -43,7 +43,7 @@ while salir !=True:
         print ("bye!")
         salir = True
     else:
-       print("Porfavor ingrese una opcion valida [1, 2 , 3]")
+       print("Porfavor ingrese una opcion valida [1, 2 , 3, 4]")
         
         
 print (f'la opcion seleccionada es : {option}')
