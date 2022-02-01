@@ -12,7 +12,7 @@ borre un alumno , el alumno tiene nombre y apellido
 # crear una list
 list = []
 
-salir = False
+salir != False
 while salir !=True:
     print("---------------Menu--------------------")
     print("1.- Listar Alumnos")
