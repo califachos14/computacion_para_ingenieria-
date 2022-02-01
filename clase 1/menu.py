@@ -23,7 +23,7 @@ while salir !=True:
     
     
     
-    option = int(input("Seleccione una Opcion [1-2-3]:"))
+    option = int(input("Seleccione una Opcion [1-2-3-4]:"))
     
     ## opcion 1 list alumno
     if option == 1:
